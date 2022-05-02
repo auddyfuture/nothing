@@ -1,0 +1,12 @@
+---
+:id: 103935310
+:submitters:
+- :name: Austin Fiedor
+  :email: austin.fiedor001@umb.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-12-07 20:12:42.007772000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-12-07 12:12:42.007772000 Z
+:status: processed
+:score: 19.79
